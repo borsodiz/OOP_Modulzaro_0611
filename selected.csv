@@ -1,0 +1,65 @@
+year;stage;date;team_a;team_b;goals_a;goals_b;penalties_a;penalties_b
+Group A;2018.06.14;Russia; Saudi Arabia;0;0
+Group A;2018.06.15;Egypt; Uruguay;0;0
+Group A;2018.06.19;Russia; Egypt;0;0
+Group A;2018.06.20;Uruguay; Saudi Arabia;0;0
+Group A;2018.06.25;Uruguay; Russia;0;0
+Group A;2018.06.25;Saudi Arabia; Egypt;0;0
+Group B;2018.06.15;Morocco; Iran;0;0
+Group B;2018.06.15;Portugal; Spain;0;0
+Group B;2018.06.20;Portugal; Morocco;0;0
+Group B;2018.06.20;Iran; Spain;0;0
+Group B;2018.06.25;Iran; Portugal;0;0
+Group B;2018.06.25;Spain; Morocco;0;0
+Group C;2018.06.16;France; Australia;0;0
+Group C;2018.06.16;Peru; Denmark;0;0
+Group C;2018.06.21;Denmark; Australia;0;0
+Group C;2018.06.21;France; Peru;0;0
+Group C;2018.06.26;Denmark; France;0;0
+Group C;2018.06.26;Australia; Peru;0;0
+Group D;2018.06.16;Argentina; Iceland;0;0
+Group D;2018.06.16;Croatia; Nigeria;0;0
+Group D;2018.06.21;Argentina; Croatia;0;0
+Group D;2018.06.22;Nigeria; Iceland;0;0
+Group D;2018.06.26;Nigeria; Argentina;0;0
+Group D;2018.06.26;Iceland; Croatia;0;0
+Group E;2018.06.17;Costa Rica; Serbia;0;0
+Group E;2018.06.17;Brazil; Switzerland;0;0
+Group E;2018.06.22;Brazil; Costa Rica;0;0
+Group E;2018.06.22;Serbia; Switzerland;0;0
+Group E;2018.06.27;Serbia; Brazil;0;0
+Group E;2018.06.27;Switzerland; Costa Rica;0;0
+Group F;2018.06.17;Germany; Mexico;0;0
+Group F;2018.06.18;Sweden; South Korea;0;0
+Group F;2018.06.23;South Korea; Mexico;0;0
+Group F;2018.06.23;Germany; Sweden;0;0
+Group F;2018.06.27;South Korea; Germany;0;0
+Group F;2018.06.27;Mexico; Sweden;0;0
+Group G;2018.06.18;Belgium; Panama;0;0
+Group G;2018.06.18;Tunisia; England;0;0
+Group G;2018.06.23;Belgium; Tunisia;0;0
+Group G;2018.06.24;England; Panama;0;0
+Group G;2018.06.28;England; Belgium;0;0
+Group G;2018.06.28;Panama; Tunisia;0;0
+Group H;2018.06.19;Colombia; Japan;0;0
+Group H;2018.06.19;Poland; Senegal;0;0
+Group H;2018.06.24;Japan; Senegal;0;0
+Group H;2018.06.24;Poland; Colombia;0;0
+Group H;2018.06.28;Japan; Poland;0;0
+Group H;2018.06.28;Senegal; Colombia;0;0
+Round of 16;2018.06.30;France; Argentina;0;0
+Round of 16;2018.06.30;Uruguay; Portugal;0;0
+Round of 16;2018.07.01;Spain; Russia;3;4
+Round of 16;2018.07.01;Croatia; Denmark;3;2
+Round of 16;2018.07.02;Brazil; Mexico;0;0
+Round of 16;2018.07.02;Belgium; Japan;0;0
+Round of 16;2018.07.03;Sweden; Switzerland;0;0
+Round of 16;2018.07.03;Colombia; England;3;4
+Quarter-finals;2018.07.06;Uruguay; France;0;0
+Quarter-finals;2018.07.06;Brazil; Belgium;0;0
+Quarter-finals;2018.07.07;Sweden; England;0;0
+Quarter-finals;2018.07.07;Russia; Croatia;3;4
+Semi-finals;2018.07.10;France; Belgium;0;0
+Quarter-finals;2018.07.11;Croatia; England;0;0
+Third place play-off;2018.07.14;Belgium; England;0;0
+Final;2018.07.15;France; Croatia;0;0

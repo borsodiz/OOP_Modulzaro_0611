@@ -1,0 +1,28 @@
+1.) 2 fajta exception van: checked és unchecked. A checked exception egy ellenőrzött hibakezelés. Az unchecked exception ami pl
+    a program futás közben fellépő hiba, ez egy ellenőrizetlen hiba. a Runtime exception is azt jelenti, hogy futás közben lép fel,
+    így megakadályozza a továbbfutást.
+    Arra kelle figyelni, hogy az exception-ök kezelésre tudunk használni try-cathc, throws Exception parancsokat, a Runtime exception
+    kezeléséhez nincs követelémény.
+Hibakezelésnek az lenne a lényege, hogy a programunk ne álljon le, és ha hiba lép fel akkor mit csináljon a program.
+
+
+2.) iterator.remove(); parancssorral tudunk kollekcióból törölni
+  Ez azt jelenti, hogy iterator segítségével bejárás közben tudunk törölni a remove-val.
+    pl.:
+    Iterator <Valami> iterator = history.iterator ();
+    Valami valami = iterator.next();
+
+    if (valami.getname().equals("Senki")) {
+    iterator.remove();
+    }
+
+3.) OOP koncepciók:
+   a.) absztrakció: egyszerűbb dolgokat használunk, amik ugyan képesek összetettebb működésre, de ez kívülről nem látszik.
+   b.) enkapszuláció: dolgok logikailag összekapcsolódnak és egységet alkotnak. Különböző egységek nem látják egymást.
+   c.) öröklődés: hogy elkerüljük az önismétlést már létrehozott osztályokat örökíteni tudunk.
+       Az öröklött osztály megörökli az anyaosztály tulajdonságait, és ezen felül tudjuk bővíteni extrákkal.
+   d.) polimorfizmus: többalakuság, ez is azért van, hogy ne ismételjük önmagunkat. Akkor fordul elő mikor több metódusnak ugyanaz a neve,
+       de más feladatokat hajtanak végre.
+
+4.) MAP-ben lehet különféle adattípusokat rendezetten tárolni, és a hashcode alapján lehet rájuk hivatkozni.
+
